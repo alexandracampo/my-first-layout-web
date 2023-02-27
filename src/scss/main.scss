@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+// partials styles
+/* @import '/src/scss/layout/header';
+@import '/src/scss/layout/main-1;
+@import '/src/scss/layout/main-2';
+@import '/src/scss/layout/footer';
+@import '/src/scss/layout/variables'; */
+
+@import 'core/variables';
+@import 'layout/header';
+@import 'layout/main-1';
+@import 'layout/main-2';
+@import 'layout/footer';
