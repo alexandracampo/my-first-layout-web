@@ -19,7 +19,7 @@ Es importante comentar que las carpetas `public/` y `docs/`, son generadas autom
 
 ### Detalles de la web:
 
-- El botón hamburguesa se mantiene fijo en la esqiuna superior izquierda de la pantalla incluso al hacer scroll y debe ser un enlace a la web de Adalab. Este menú de hamburguesa no desplega ningún submenú.
+- El menú hamburguesa se mantiene fijo en la esqiuna superior izquierda de la pantalla incluso al hacer scroll y debe ser un enlace a la web de Adalab. Este menú de hamburguesa no desplega ningún submenú.
 
 - Hero maquetado con Flexbox.
 
